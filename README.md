@@ -7,3 +7,5 @@ Research ideas
 3. Cognitive architecture developments
 4. Selecting an action generally based on many possible actions - dynamic heuristics
 5. Recusive problem - RE language problem - break the loop after some time?
+6. Memory design - forget memory and increase its importance once it is encounterd again
+7. research in analogical reasoning
